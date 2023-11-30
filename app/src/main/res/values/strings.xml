@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tech Exactly</string>
+    <string name="name">Suvojit</string>
+    <string name="connected">Connected</string>
+    <string name="application">Applications</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
